@@ -41,3 +41,10 @@ CPU_THRESHOLD = 1
 RAM_THRESHOLD = 1
 DISK_THRESHOLD = 1
 
+## Screenshots
+
+### Teams Alert
+![Teams Alert](screenshots/teams_alert.png)
+
+### Database Logging
+![Database View](screenshots/database_view.png)
