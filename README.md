@@ -37,10 +37,7 @@ Create a .env file in the project root:
 TEAMS_WEBHOOK_URL=your_webhook_url_here
 
 Adjust thresholds at the top of ResourceMonitor.py:
-CPU_THRESHOLD = 80
-RAM_THRESHOLD = 80
-DISK_THRESHOLD = 90
+CPU_THRESHOLD = 1
+RAM_THRESHOLD = 1
+DISK_THRESHOLD = 1
 
-## Screenshots
-[Teams Alert]
-[Database View]

@@ -17,7 +17,7 @@ DEBUG = False
 ### Creating Threshholds for CPU, RAM, and DISK. Change these if you'd like
 CPU_THRESHOLD = 1
 RAM_THRESHOLD = 1
-DISK_THRESHOLD = 85
+DISK_THRESHOLD = 1
 
 ### Creating function to get the top 3 processes in CPU and RAM
 def get_top_processes(metric, top_procs=3):
